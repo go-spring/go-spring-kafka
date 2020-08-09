@@ -1,1 +1,1 @@
-# go-spring-kafka
+# spring-kafka
